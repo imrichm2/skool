@@ -1,0 +1,7 @@
+# Core agent framework
+--pre
+agent-framework-core==1.7.0
+agent-framework-ollama==1.0.0b260521
+
+# Image generation (only needed for generate_cover.py)
+pillow>=10.0.0

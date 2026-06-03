@@ -10,7 +10,7 @@ Go from a hallucinating chatbot to a self-generating agent factory — using onl
 git clone https://github.com/imrichm2/skool.git
 cd skool
 python -m venv .venv && source .venv/bin/activate
-pip install --pre agent-framework-ollama agent-framework-core
+pip install -r requirements.txt
 ollama pull qwen3.5:9b
 python main_local.py
 ```

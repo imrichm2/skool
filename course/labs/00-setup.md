@@ -30,8 +30,7 @@ cd ProjectAgent
 ```bash
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
-pip install --pre agent-framework-ollama
-pip install agent-framework-core
+pip install -r requirements.txt
 ```
 
 Verify the install:
