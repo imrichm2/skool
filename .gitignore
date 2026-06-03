@@ -1,0 +1,7 @@
+.venv/
+generated/
+__pycache__/
+*.pyc
+*.pyo
+ai-agents-course.zip
+.claude/
