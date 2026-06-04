@@ -1,0 +1,44 @@
+site_name: AI Creating AI Agents
+site_description: Build, Ground, and Automate Runtime Agents with the Microsoft Agent Framework
+site_url: https://imrichm2.github.io/skool/
+repo_url: https://github.com/imrichm2/skool
+repo_name: imrichm2/skool
+edit_uri: edit/main/course/labs/
+docs_dir: course/labs
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: teal
+      toggle: { icon: material/weather-night, name: Switch to dark mode }
+    - scheme: slate
+      primary: indigo
+      accent: teal
+      toggle: { icon: material/weather-sunny, name: Switch to light mode }
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - content.code.copy
+    - search.suggest
+
+nav:
+  - Home: index.md
+  - "Lab 00 · Setup": 00-setup.md
+  - "Lab 01 · Why agents drift": 01-drift.md
+  - "Lab 02 · Grounding with SKILL": 02-skill.md
+  - "Lab 03 · Tools": 03-tools.md
+  - "Lab 04 · Coding agent": 04-coding-agent.md
+  - "Lab 05 · Capstone": 05-capstone.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - pymdownx.highlight: { anchor_linenums: true }
+  - pymdownx.superfences
+  - toc: { permalink: true }
+
+plugins:
+  - search

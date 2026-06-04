@@ -19,8 +19,8 @@ Complete this before Module 1. Every subsequent lab assumes this is done.
 ## Step 1 — Clone the repo
 
 ```bash
-git clone https://github.com/<your-repo>/ProjectAgent.git
-cd ProjectAgent
+git clone https://github.com/imrichm2/skool.git
+cd skool
 ```
 
 ---
