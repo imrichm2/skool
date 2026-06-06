@@ -1,8 +1,12 @@
 # Build AI Agents at Home
 
-Companion repo for the **AI Creating AI Agents** Skool course.
+Companion repo for the **[AI Creating AI Agents](https://www.skool.com/ai-agents-4094/about)** Skool course.
 
 Go from a hallucinating chatbot to a self-generating agent factory — using only local models and open-source tools.
+
+## Join the course
+
+**[skool.com/ai-agents-4094/about](https://www.skool.com/ai-agents-4094/about)** — community, lessons, and structured labs.
 
 ## Quick start
 
